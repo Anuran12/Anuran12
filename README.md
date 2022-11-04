@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ![Anuran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anuran12&show_icons=true&theme=radical)
+
+
+<summary>Contributions and Streak</summary>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anuran12&theme=dracula">
