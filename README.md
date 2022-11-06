@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 <br>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/705665813994012695)](https://discord.com/users/705665813994012695)
+[![Discord Presence](https://lanyard.cnrad.dev/api/756548542994055290)](https://discord.com/users/756548542994055290)
