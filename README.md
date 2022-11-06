@@ -23,3 +23,7 @@ Here are some ideas to get you started:
 <br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anuran12&theme=dracula">
+
+<br>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/756548542994055290)
